@@ -1,0 +1,60 @@
+* {
+    font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif
+  }
+
+body {
+    background-image: url(https://img.freepik.com/foto-gratis/fondo-textura-pared-ladrillo-blanco-moderno_35257-348.jpg?w=740);
+    
+  }
+
+.fondo {background-image: url(https://www.bartolomeconsultores.com/wp-content/uploads/2015/10/fondo-formulario.jpg);
+}
+
+
+
+h1{ 
+  color: #ffffff;
+  margin: 10px;
+  font-size: 40px;
+  background-color: rgba(0, 0, 0, 0.226);
+}
+
+.top{ 
+  margin-top: 30px;
+  font-weight: bold;
+  border:0px  ;
+  
+  
+ 
+  background-color: rgba(0, 0, 0, 0);
+}
+
+footer{ 
+  color: #ffffff;
+  margin: 0;
+  width: 100%;
+  font-size: 20px;
+  height: 70px;
+  bottom: 0;
+  text-align: center;
+}
+
+.linea{
+  background: rgba(0, 0, 0, 0.952);
+  height: 1px;
+  width: 100%;
+  display: block;
+}
+
+label{
+  margin-right: 20px;
+}
+
+
+
+
+
+
+
+
+
